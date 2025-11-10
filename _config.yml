@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Zihan (Hazel) Liu"
+  # pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Illinois Urbana-Champaign"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zihanl18@illinois.edu" 
 
   # Academic websites
   academia         : # URL
